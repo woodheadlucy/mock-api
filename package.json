@@ -4,7 +4,8 @@
   "description": "mock-api",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --watch db.json",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
